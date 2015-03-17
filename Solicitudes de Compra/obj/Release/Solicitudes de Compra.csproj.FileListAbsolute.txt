@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Solicitudes de Compra\Solicitudes de Compra\bin\Release\Solicitudes de Compra.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Solicitudes de Compra\Solicitudes de Compra\bin\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Solicitudes de Compra\Solicitudes de Compra\bin\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Solicitudes de Compra\Solicitudes de Compra\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Solicitudes de Compra\Solicitudes de Compra\obj\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Solicitudes de Compra\Solicitudes de Compra\obj\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Solicitudes de Compra\Solicitudes de Compra\obj\Release\Solicitudes de Compra.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Solicitudes de Compra\Solicitudes de Compra\obj\Release\Solicitudes de Compra.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Solicitudes de Compra\Solicitudes de Compra\bin\Release\Solicitudes de Compra.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Solicitudes de Compra\Solicitudes de Compra\obj\Release\Solicitudes de Compra.exe
